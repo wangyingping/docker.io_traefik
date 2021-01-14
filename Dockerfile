@@ -1,1 +1,1 @@
-FROM docker.io/library/traefik:v2.3.5
+FROM docker.io/library/traefik:v2.3.7
